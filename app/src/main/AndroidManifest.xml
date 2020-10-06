@@ -3,6 +3,7 @@
     package="com.example.micromanager">
 
     <application
+        android:name=".Micromanager"
         android:allowBackup="true"
         android:icon="@mipmap/ic_app_logo"
         android:label="@string/app_name"
